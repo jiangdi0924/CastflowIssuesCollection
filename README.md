@@ -1,0 +1,2 @@
+# CastflowIssuesCollection
+本仓库用来收集Castflow使用过程中遇到的问题
